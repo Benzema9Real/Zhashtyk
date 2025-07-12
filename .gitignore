@@ -1,0 +1,14 @@
+*~
+*.swp
+*.config
+venv/
+.env
+logs/
+*.log
+*.db
+*.sqlite
+*.pyc
+__pycache__/
+*/migrations/*.py
+*/migrations/*.pyc
+*/__pycache__/
